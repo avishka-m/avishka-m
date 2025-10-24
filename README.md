@@ -1,11 +1,10 @@
-
 <div align="center">
 
-# 🚀 Welcome to My Digital Universe
+# 🚀 Welcome to My AI Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;Scalable+Systems+Engineer;FinTech+Innovator;EdTech+Pioneer;Performance+Optimizer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;NLP+Specialist;RAG+%26+Agentic+AI+Builder;Full-Stack+AI+Developer;Innovation+Enthusiast" alt="Typing SVG" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Building%20The%20Future&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Building%20Intelligent%20Systems&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 </div>
 
@@ -13,12 +12,12 @@
 
 <div align="center">
 
-### 🌟 *Crafting Digital Excellence Since Day One* 🌟
+### 🌟 *Crafting AI Excellence One Model at a Time* 🌟
 
-![Profile Views](https://komarev.com/ghpvc/?username=randiranirman&style=for-the-badge&color=00D9FF)
-[![Years Badge](https://badges.pufler.dev/years/randiranirman?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/randiranirman)
-[![Repos Badge](https://badges.pufler.dev/repos/randiranirman?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/randiranirman)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/randiranirman?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/randiranirman)
+![Profile Views](https://komarev.com/ghpvc/?username=avishkasenanayaka&style=for-the-badge&color=00D9FF)
+[![Years Badge](https://badges.pufler.dev/years/avishkasenanayaka?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/avishkasenanayaka)
+[![Repos Badge](https://badges.pufler.dev/repos/avishkasenanayaka?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/avishkasenanayaka)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/avishkasenanayaka?style=for-the-badge&color=00D9FF&logo=github)](https://github.com/avishkasenanayaka)
 
 </div>
 
@@ -26,27 +25,28 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-typescript
+```typescript
 const developer = {
-    name: "Randira Nirman",
-    role: "Full-Stack Architect & System Designer",
-    location: "🌍 Building from anywhere",
+    name: "Avishka Senanayaka",
+    role: "AI/ML Engineer & Agentic Systems Architect",
+    location: "🇱🇰 Moratuwa, Sri Lanka",
+    education: "B.Sc. AI @ University of Moratuwa",
     
     dailyRoutine: {
         coffee: "☕ Essential fuel",
-        code: "💻 Crafting scalable solutions",
-        learn: "📚 Exploring new technologies", 
-        build: "🚀 Shipping awesome products"
+        code: "💻 Building intelligent systems",
+        learn: "📚 Exploring cutting-edge AI", 
+        innovate: "🚀 Creating adaptive solutions"
     },
     
     currentlyFocusedOn: [
-        "🏗 Designing microservices architectures",
-        "💰 Building next-gen FinTech solutions", 
-        "🎓 Revolutionizing EdTech platforms",
-        "⚡ Optimizing for millions of users"
+        "🤖 Designing agentic AI systems",
+        "💬 Building advanced NLP solutions", 
+        "🧠 Developing RAG architectures",
+        "⚡ Optimizing ML models for production"
     ]
 };
-
+```
 
 <br clear="right"/>
 
@@ -56,24 +56,69 @@ const developer = {
 
 <div align="center">
 
-### *🎨 Frontend Mastery*
+### *🧠 AI & Machine Learning*
 <p>
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,sass,redux" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-### *⚙ Backend Powerhouse*  
+### *🤖 LLMs & NLP*  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,dotnet,nodejs,express,python,go" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLaMA_3.2-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
-### *🗄 Database & Cloud*
+### *🔗 RAG & Agentic AI*
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,aws,docker,kubernetes,jenkins" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangSmith-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=database&logoColor=white" />
+  <img src="https://img.shields.io/badge/Crew_AI-8E75B2?style=for-the-badge&logo=ai&logoColor=white" />
+</p>
+
+### *💻 Programming & Development*
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prolog-74283C?style=for-the-badge&logo=prolog&logoColor=white" />
+</p>
+
+### *🎨 Frontend & Backend*
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
+
+### *🗄 Databases & Cloud*
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ### *🔧 Tools & Platforms*
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,linux,nginx" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 </div>
@@ -84,127 +129,175 @@ const developer = {
 
 # 🚀 *FLAGSHIP PROJECTS*
 
-"Code is poetry, architecture is art, and scalability is magic"
+"Intelligence is not artificial when it solves real problems"
 
 </div>
 
-## 🎓 *LearnSphere LMS* 
-### Next-Generation Learning Management System
+## 🏭 *WareNova* 
+### AI-Powered Warehouse Management Platform
 
 <div align="center">
-<img src="https://img.shields.io/badge/🎯_Impact-10K+_Students-success?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/⚡_Performance-99.9%_Uptime-brightgreen?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🌍_Scale-Multi_Tenant-blue?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤝_Collaboration-Zone24x7-success?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖_AI_Modules-4_Core_Systems-brightgreen?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔐_Security-JWT_Auth-blue?style=for-the-badge&logoColor=white"/>
 </div>
 
-bash
-🏆 Revolutionary EdTech platform transforming online education
-📊 Serving 10,000+ students across 50+ institutions  
-⚡ Built for infinite scalability with 99.9% uptime
-🔐 Enterprise-grade security with GDPR compliance
+```bash
+🏆 Revolutionary warehouse management with intelligent automation
+🤖 4 AI modules: Chatbot, Forecasting, Path Optimization & Anomaly Detection  
+⚡ Real-time operations with seamless workflow automation
+🔐 Enterprise-grade security with JWT authentication
+```
 
-
-*🔥 Key Innovations:*
-- 🎮 *Gamified Learning Experience* - Interactive challenges & rewards
-- 🤖 *AI-Powered Recommendations* - Personalized learning paths  
-- 📱 *Real-time Collaboration* - Live coding sessions & group projects
-- 📈 *Advanced Analytics* - ML-driven performance insights
-- 🌐 *Multi-language Support* - Global accessibility
+**🔥 Key Innovations:**
+- 🤖 *Agentic Chatbot System* - Conversational AI for warehouse queries
+- 📊 *Demand Forecasting* - Predictive analytics for inventory optimization  
+- 🗺 *Pick Path Optimization* - AI-driven route planning for efficiency
+- 🔍 *Anomaly Detection* - Real-time monitoring and alert systems
+- 🌐 *Full-Stack Integration* - Seamless frontend-backend architecture
 
 <div align="center">
 
 | *Technology* | *Purpose* | *Why Chosen* |
 |:---:|:---:|:---:|
-| Spring Boot | Backend API | Enterprise scalability |
-| React | Frontend | Lightning-fast UI |
-| PostgreSQL | Primary DB | ACID compliance |
-| Redis | Caching | Sub-millisecond responses |
-| AWS | Infrastructure | Global CDN & auto-scaling |
+| LangChain | Agentic AI | Advanced orchestration |
+| FastAPI | Backend API | High-performance async |
+| MongoDB | Database | Flexible document storage |
+| React | Frontend | Modern reactive UI |
+| Azure | Cloud | Enterprise scalability |
 
-[![🚀 Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Now-ff6b6b?style=for-the-badge)](https://learnsphere-demo.com)
-[![📱 Source Code](https://img.shields.io/badge/📱_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com/randiranirman/learnsphere-lms)
+**My Contribution:** Designed and developed the entire Agentic Chatbot system using LangChain, MongoDB and OpenAI. Led backend architecture, API development, security integration, AI feature coordination and GitHub version management.
 
-</div>
-
----
-
-## 💪 *Fit Link* 
-### Social Fitness Revolution
-
-<div align="center">
-<img src="https://img.shields.io/badge/👥_Community-50K+_Users-purple?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🏃_Workouts-1M+_Completed-orange?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/📱Platform-iOS+_Android-green?style=for-the-badge&logoColor=white"/>
-</div>
-
-bash
-💪 Social fitness platform connecting fitness enthusiasts worldwide
-🏆 50,000+ active users with 1M+ completed workouts
-🔥 Real-time challenges and community-driven motivation
-📊 AI-powered form correction using computer vision
-
-
-*🌟 Breakthrough Features:*
-- 🎥 *AI Form Analysis* - Real-time workout correction using ML
-- 🏆 *Global Challenges* - Compete with users worldwide
-- 📊 *Biometric Integration* - Sync with wearables & health apps  
-- 🤝 *Virtual Training Partners* - Find workout buddies globally
-- 📈 *Predictive Analytics* - Injury prevention algorithms
-
-<div align="center">
-
-*Tech Stack Mastery*
-
-Frontend: React Native 
-Backend: Node.js + Express + Socket.io  
-Database: MongoDB + Redis Clustering
-ML/AI: TensorFlow.js + OpenPose
-Cloud: AWS + CloudFront + S3
-
-
-[![🔥 App Store](https://img.shields.io/badge/🔥_App_Store-Download-blue?style=for-the-badge&logo=apple)](https://apps.apple.com/fitlink)
-[![🚀 Play Store](https://img.shields.io/badge/🚀_Play_Store-Download-green?style=for-the-badge&logo=googleplay)](https://play.google.com/fitlink)
+[![📱 Source Code](https://img.shields.io/badge/📱_Source_Code-GitHub-black?style=for-the-badge&logo=github)](https://github.com)
 
 </div>
 
 ---
 
-## 💰 *FinanceCore Engine*
-### Enterprise Financial Powerhouse
+## 💪 *GYM AI App Backend* 
+### Intelligent Fitness Tracking System
 
 <div align="center">
-<img src="https://img.shields.io/badge/💸_Transactions-$100M+_Processed-gold?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/⚡_Speed-<50ms_Response-red?style=for-the-badge&logoColor=white"/>
-<img src="https://img.shields.io/badge/🔒_Security-SOC2_Compliant-darkgreen?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🤖_AI_Powered-Fully_Automated-purple?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🎙️_Speech_to_Text-Whisper-orange?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📱_Modular-Agentic_Design-green?style=for-the-badge&logoColor=white"/>
 </div>
 
-bash
-🏦 Mission-critical financial processing engine
-💎 Processing $100M+ in transactions monthly
-⚡ Ultra-low latency: <50ms average response time  
-🛡 Bank-grade security with zero security incidents
+```bash
+💪 Modular agentic AI backend for automated gym and nutrition tracking
+🎙️ Speech-to-Text integration using Whisper for voice commands
+📸 OCR-based workout extraction from images using Tesseract
+💬 Conversational chatbot for personalized fitness guidance
+```
 
-
-*🎯 Enterprise Features:*
-- ⚡ *High-Frequency Trading* - Microsecond-level transaction processing
-- 🔐 *Zero Trust Security* - Multi-layer encryption & fraud detection
-- 🌍 *Multi-Currency Engine* - Real-time forex & crypto support
-- 📊 *Risk Analytics* - ML-powered fraud detection (99.7% accuracy)
-- 🔄 *Event Sourcing* - Complete audit trail & replay capability
+**🌟 Breakthrough Features:**
+- 🤖 *Agentic Architecture* - Input, classification and domain agents pipeline
+- 🎙️ *Voice Commands* - Hands-free workout logging with Whisper
+- 📸 *Smart OCR* - Extract workout data from gym display images  
+- 💬 *AI Coach* - Personalized guidance through conversational AI
+- 📊 *Automated Tracking* - Minimal manual input, maximum insights
 
 <div align="center">
 
-*Architecture Excellence*
+**Tech Stack Mastery**
 
-Backend: Spring Boot + Reactive WebFlux
-Database: PostgreSQL + MongoDB (Polyglot)  
-Message Queue: Apache Kafka + RabbitMQ
-Caching: Redis Cluster + Hazelcast
-Security: OAuth2 + JWT + AES-256
-Monitoring: Prometheus + Grafana + ELK Stack
+```
+Backend: FastAPI + MongoDB Atlas
+AI/ML: LangChain + LangSmith + LangGraph + OpenAI
+Speech: Whisper AI
+OCR: Tesseract
+Security: JWT (PyJWT) + bcrypt
+```
 
+**My Contribution:** Architected the complete agentic pipeline system, implemented all backend APIs for workout and nutrition tracking, integrated Whisper and Tesseract AI services, and managed deployment and comprehensive documentation.
 
-[![🏆 Case Study](https://img.shields.io/badge/🏆_Case_Study-Read_More-purple?style=for-the-badge)](https://github.com/randiranirman/financecore-engine)
+[![🚀 Source Code](https://img.shields.io/badge/🚀_Source_Code-GitHub-green?style=for-the-badge&logo=github)](https://github.com)
+
+</div>
+
+---
+
+## 🏛️ *SmartGov Platform*
+### Digital Governance Revolution
+
+<div align="center">
+<img src="https://img.shields.io/badge/🏆_Competition-Rootcode_Tech_Triathlon-gold?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🇱🇰_Impact-Sri_Lanka_Wide-red?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/📱_Responsive-Mobile_First-darkgreen?style=for-the-badge&logoColor=white"/>
+</div>
+
+```bash
+🏦 Web-based digital governance platform for Sri Lanka
+🎯 Automated public service delivery with transparency
+📱 Mobile-responsive design for accessibility
+💳 Integrated payment processing and document verification
+```
+
+**🎯 Core Features:**
+- 📋 *Service Automation* - New Born Certificate at Hospital service
+- ✅ *Document Verification* - AI-powered validation system
+- 💳 *Payment Integration* - Seamless transaction processing
+- 🔐 *Security First* - Role-based access control (RBAC)
+- 💬 *Chatbot Support* - Instant citizen assistance
+
+<div align="center">
+
+**Architecture Excellence**
+
+```
+Frontend: React (Vite) + Tailwind CSS
+Backend: FastAPI + MongoDB
+Real-time: Socket.IO
+ML/AI: Prophet + Optuna + CatBoost + XGBoost + LightGBM
+Deployment: Docker
+```
+
+**My Contribution:** Engineered complete backend and frontend security layers, implemented authentication and authorization mechanisms, configured role-based access control, contributed to chatbot integration and supported deployment.
+
+[![🏆 Source Code](https://img.shields.io/badge/🏆_Source_Code-GitHub-purple?style=for-the-badge&logo=github)](https://github.com)
+
+</div>
+
+---
+
+## 🔐 *SecureCharge* 
+### Smart IoT Charging Locker System
+
+<div align="center">
+<img src="https://img.shields.io/badge/🔒_Security-Fingerprint_Auth-blue?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔌_IoT-Raspberry_Pi_Zero-red?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/☁️_Cloud-Firebase_Real_Time-orange?style=for-the-badge&logoColor=white"/>
+</div>
+
+```bash
+🔐 Secure IoT-based phone charging station with biometric access
+👆 Fingerprint-authenticated lockers for enhanced security
+📊 Real-time monitoring via Firebase cloud integration
+🎮 User-friendly GUI interface with PySimpleGUI
+```
+
+**💡 Technical Highlights:**
+- 🔐 *Biometric Authentication* - Fingerprint-based secure access
+- 🔌 *IoT Control* - GPIO-based locker management
+- ☁️ *Cloud Sync* - Real-time Firebase database integration
+- 🖥️ *Intuitive UI* - PySimpleGUI for seamless user experience
+- 🌐 *API Integration* - Flask REST APIs for system communication
+
+<div align="center">
+
+**IoT & Cloud Integration**
+
+```
+Hardware: Raspberry Pi Zero + GPIO Control
+Biometric: pyfingerprint Library
+Backend: Flask REST API
+Cloud: Firebase Realtime Database
+Interface: PySimpleGUI
+```
+
+**My Contribution:** Designed and implemented complete fingerprint authentication system, GPIO locker control mechanisms, Firebase cloud integration, Flask API development and PySimpleGUI interface creation.
+
+[![🔥 Source Code](https://img.shields.io/badge/🔥_Source_Code-GitHub-blue?style=for-the-badge&logo=github)](https://github.com)
 
 </div>
 
@@ -214,11 +307,11 @@ Monitoring: Prometheus + Grafana + ELK Stack
 
 # 📊 *PERFORMANCE METRICS*
 
-<img src="https://github-readme-stats.vercel.app/api?username=randiranirman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=randiranirman&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=avishkasenanayaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avishkasenanayaka&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=randiranirman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=randiranirman&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avishkasenanayaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avishkasenanayaka&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&hide_border=true" width="48%" />
 
 </div>
 
@@ -232,46 +325,50 @@ Monitoring: Prometheus + Grafana + ELK Stack
 <tr>
 <td align="center" width="25%">
 
-### 🏗 *System Architecture*
+### 🤖 *AI & ML*
 
-Microservices ████████████ 95%
-Event Sourcing ██████████▒ 90%  
-CQRS Pattern ████████▒▒▒ 85%
-API Design ████████████ 98%
-
-
-</td>
-<td align="center" width="25%">
-
-### ⚡ *Performance*
-
-Optimization ████████████ 96%
-Caching ██████████▒▒ 88%
-Load Balancing ████████▒▒▒ 82%
-Monitoring ████████████ 94%
-
+```
+TensorFlow      ████████████ 95%
+Scikit-learn    ██████████▒▒ 88%  
+NLP             ████████████ 94%
+Model Training  ██████████▒▒ 90%
+```
 
 </td>
 <td align="center" width="25%">
 
-### 💰 *FinTech*
+### 🔗 *RAG & Agents*
 
-Payment Systems ███████████▒ 92%
-Blockchain ████████▒▒▒ 78%
-Risk Management ██████████▒▒ 86%
-Compliance ████████▒▒▒ 80%
-
+```
+LangChain       ████████████ 96%
+Vector DBs      ██████████▒▒ 88%
+Agentic AI      ████████████ 92%
+LLM Integration ██████████▒▒ 90%
+```
 
 </td>
 <td align="center" width="25%">
 
-### 🎓 *EdTech*
+### 💻 *Development*
 
-LMS Development ████████████ 96%
-Gamification ██████████▒▒ 88%
-Analytics ████████████ 94%
-Accessibility ████████▒▒▒ 84%
+```
+Python          ████████████ 98%
+FastAPI         ██████████▒▒ 90%
+React           ████████▒▒▒▒ 82%
+MongoDB         ██████████▒▒ 88%
+```
 
+</td>
+<td align="center" width="25%">
+
+### 🛠 *Tools & Cloud*
+
+```
+Docker          ████████▒▒▒▒ 80%
+Azure           ██████████▒▒ 85%
+Git/GitHub      ████████████ 96%
+Linux           ████████▒▒▒▒ 84%
+```
 
 </td>
 </tr>
@@ -285,15 +382,24 @@ Accessibility ████████▒▒▒ 84%
 
 # 🌟 *ACHIEVEMENT SHOWCASE*
 
-<img src="https://github-profile-trophy.vercel.app/?username=randiranirman&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=avishkasenanayaka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
 
-### 🏆 *Career Highlights*
-| Achievement | Impact | Year |
+### 🏆 *Achievements & Recognition*
+| Achievement | Event | Year |
 |:---:|:---:|:---:|
-| 🚀 *Scaled system to 10M+ users* | Zero downtime migration | 2024 |
-| 💰 *Built $100M+ transaction engine* | 50ms average response | 2023 |
-| 🎓 *Launched educational platform* | 50K+ students served | 2023 |
-| ⚡ *Performance optimization* | 300% speed improvement | 2022 |
+| 🏅 *Merit Award* | CodeRush 2024 | 2024 |
+| 🚀 *Participant* | DataStorm 2025 | 2025 |
+| 💻 *Participant* | Rootcode Tech Triathlon | 2025 |
+| ⚡ *Participant* | MoraXtreme 9.0 | 2024 |
+
+### 📚 *Education*
+**B.Sc. (Hons) in Artificial Intelligence**  
+*University of Moratuwa | CGPA: 3.45/4.0*  
+2023 – 2027 (Expected)
+
+**GCE Advanced Level (Physical Science)**  
+*Sri Siddhartha Central College | 1A, 2B*  
+2019 – 2022
 
 </div>
 
@@ -303,48 +409,85 @@ Accessibility ████████▒▒▒ 84%
 
 # 🎯 *CURRENT MISSION*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Building+systems+that+scale+to+infinity;Creating+financial+solutions+for+tomorrow;Revolutionizing+education+through+technology;Optimizing+performance+at+every+layer" alt="Current Mission" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&lines=Building+adaptive+AI-driven+solutions;Mastering+RAG+and+agentic+architectures;Specializing+in+NLP+and+LLM+systems;Creating+intelligent+systems+for+real-world+impact" alt="Current Mission" />
 
 </div>
 
-javascript
+```javascript
 const myMission = {
-    vision: "To build technology that positively impacts millions of lives",
+    vision: "To build adaptive AI systems that solve real-world challenges",
     currentGoals: [
-        "🏗 Architecting systems that handle billions of requests",
-        "💡 Innovating in AI-driven financial solutions", 
-        "🚀 Contributing to open-source communities",
-        "🌱 Mentoring the next generation of developers"
+        "🤖 Mastering agentic AI architectures and multi-agent systems",
+        "💬 Advancing NLP and LLM integration techniques", 
+        "🚀 Contributing to open-source AI communities",
+        "🌱 Continuous learning in cutting-edge AI trends"
     ],
-    technologies: ["Kubernetes", "Rust", "GraphQL", "Machine Learning"],
-    impact: "Committed to building a more connected and efficient world"
+    specialization: ["RAG Systems", "Agentic AI", "NLP", "LangChain"],
+    motto: "Self-motivated, curious, and constantly evolving"
 };
-
+```
 
 ---
 
 <div align="center">
 
-# 💬 *LET'S BUILD SOMETHING AMAZING TOGETHER*
+# 🎓 *LEADERSHIP & ACTIVITIES*
 
-<a href="mailto:your.email@example.com">
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🏛 *University Involvement*
+
+🎓 **IT Faculty Student Union**  
+*Member - Leadership & Event Organization*
+
+📢 **University Mass Media Club**  
+*Member - Content Creation & Coordination*
+
+</td>
+<td align="center" width="50%">
+
+### 🎙️ *Special Skills*
+
+🎤 **Sinhala Announcer**  
+*University & School-level Events*
+
+👔 **Former School Prefect**  
+*Sri Siddhartha Central College*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💬 *LET'S BUILD INTELLIGENT SYSTEMS TOGETHER*
+
+<a href="mailto:sdamsenanayaka930@gmail.com">
   <img src="https://img.shields.io/badge/📧_Email-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="https://linkedin.com/in/avishkasenanayaka">
   <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://twitter.com/yourhandle">
-  <img src="https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://github.com/avishkasenanayaka">
+  <img src="https://img.shields.io/badge/🐱_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-00D9FF?style=for-the-badge&logo=react&logoColor=white" />
+<a href="tel:+94718735618">
+  <img src="https://img.shields.io/badge/📱_Phone-00D9FF?style=for-the-badge&logo=phone&logoColor=white" />
 </a>
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-### 🚀 *"Code is poetry, systems are symphonies, and impact is everything"* 🚀
+### 🚀 *"Building adaptive AI solutions for tomorrow's challenges"* 🚀
+
+**📍 Based in Moratuwa, Sri Lanka | 🎓 AI Student @ University of Moratuwa**
 
 *⭐ If my work inspires you, star my repos and let's connect! ⭐*
 
